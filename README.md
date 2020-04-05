@@ -2,12 +2,24 @@
 DecryptPluralsightVideos 1.0
 
 
+```diff
++  DecryptPluralsightVideos 1.0  is case sensitive ! 
++ im reposting this app for research purposes  !
+``` 
+
+
+
 # PS : 
 ```diff
 -  This project is for reasearch only ,i did notmake this app, im reposting ! 
 - i'm not using this app! & i don't take responsibiity for your won personal misusing !!!
 ``` 
-  
+
+
+
+
+
+
  
 
 
@@ -25,13 +37,16 @@ I no more use this app and there is no further development from my side. Althoug
 
 
 
+
 ### NOTE
 ``` diff
 -  Pluralsight Terms of Use does not allow downloading / storing of the video. 
 ``` 
 
 
-### Quoting from www.pluralsight.com/terms
 
+
+
+### Quoting from www.pluralsight.com/terms
 
 Proprietary Materials may only be accessed through the Site, and not by or from any other site or means. The applicable License granted you by these Terms of Use is a right of access through the Site only, and does not grant to you any right to download or store any Proprietary Materials in any medium.
