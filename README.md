@@ -4,8 +4,8 @@ DecryptPluralsightVideos 1.0
 
 # PS : 
 ```diff
--  This project is for reasearch only , i'm not using this app!
-- i don't take responsibiity for your won personal misusing !!!
+-  This project is for reasearch only ,i did notmake this app, im reposting ! 
+- i'm not using this app! & i don't take responsibiity for your won personal misusing !!!
 ``` 
   
  
