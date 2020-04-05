@@ -2,6 +2,14 @@
 DecryptPluralsightVideos 1.0
 
 
+# PS : 
+```diff
+-  This project is for reasearch only , i'm not using this app!
+- i don't take responsibiity for your won personal misusing !!!
+``` 
+  
+ 
+
 
 ## here 's a youtube video that explains everything ( ps : not my video ) : 
 
@@ -16,12 +24,11 @@ when I was in college. We had limited WiFi data allowance, it was slow and worke
 I no more use this app and there is no further development from my side. Although, anyone willing to do any further development is free to open issues and make PRs. Least I can do is review and merge them.
 
 
-Contributors
-Thanks to all the contributors!
-
 
 ### NOTE
-Pluralsight Terms of Use does not allow downloading / storing of the video.
+``` diff
+-  Pluralsight Terms of Use does not allow downloading / storing of the video. 
+``` 
 
 
 ### Quoting from www.pluralsight.com/terms
