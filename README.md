@@ -9,7 +9,7 @@ DecryptPluralsightVideos 1.0
 
 
 
-### Why I Build It ?
+### Who/Why I Build It ?
 
 when I was in college. We had limited WiFi data allowance, it was slow and worked only till 12:30AM. Keeping these things in mind I build this extension.
 
